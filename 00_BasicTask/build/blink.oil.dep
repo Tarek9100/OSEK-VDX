@@ -1,0 +1,11 @@
+blink.oil: \
+ /E/OSEK/trampoline-master/goil/templates/config/config.oil \
+ /E/OSEK/trampoline-master/goil/templates/config/kernel.oil \
+ /E/OSEK/trampoline-master/goil/templates/config/api.oil \
+ /E/OSEK/trampoline-master/goil/templates/config/api_ioc.oil \
+ /E/OSEK/trampoline-master/goil/templates/config/cortex-m/config.oil \
+ /E/OSEK/trampoline-master/goil/templates/config/cortex-m/armv7em/config.oil \
+ /E/OSEK/trampoline-master/goil/templates/config/cortex-m/armv7em/buildOptions.oil \
+ /E/OSEK/trampoline-master/goil/templates/config/cortex-m/armv7em/stm32f407/config.oil \
+ /E/OSEK/trampoline-master/goil/templates/config/cortex-m/armv7em/stm32f407/stm32f4discovery/config.oil \
+ /E/OSEK/trampoline-master/goil/templates/config/config2.5.oil

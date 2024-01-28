@@ -1,0 +1,10 @@
+build/machines/cortex/tpl_startup.S.o: \
+ ../../../../../../machines/cortex/tpl_startup.S \
+ ../../../../../../os/tpl_as_memmap.h blink/tpl_app_define.h \
+ ../../../../../../os/tpl_config_def.h \
+ ../../../../../../os/tpl_config_check.h blink/AsMemMap.h
+../../../../../../os/tpl_as_memmap.h:
+blink/tpl_app_define.h:
+../../../../../../os/tpl_config_def.h:
+../../../../../../os/tpl_config_check.h:
+blink/AsMemMap.h:

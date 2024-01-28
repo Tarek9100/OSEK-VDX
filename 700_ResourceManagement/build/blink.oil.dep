@@ -1,0 +1,12 @@
+blink.oil: \
+ /D/Embedded Systems/13_OSEK_OS/02_Trampoline_RTOS_Configurations/trampoline-master/goil/templates/config/config.oil \
+ /D/Embedded Systems/13_OSEK_OS/02_Trampoline_RTOS_Configurations/trampoline-master/goil/templates/config/kernel.oil \
+ /D/Embedded Systems/13_OSEK_OS/02_Trampoline_RTOS_Configurations/trampoline-master/goil/templates/config/api.oil \
+ /D/Embedded Systems/13_OSEK_OS/02_Trampoline_RTOS_Configurations/trampoline-master/goil/templates/config/api_STM.oil \
+ /D/Embedded Systems/13_OSEK_OS/02_Trampoline_RTOS_Configurations/trampoline-master/goil/templates/config/api_ioc.oil \
+ /D/Embedded Systems/13_OSEK_OS/02_Trampoline_RTOS_Configurations/trampoline-master/goil/templates/config/cortex/config.oil \
+ /D/Embedded Systems/13_OSEK_OS/02_Trampoline_RTOS_Configurations/trampoline-master/goil/templates/config/cortex/armv7em/config.oil \
+ /D/Embedded Systems/13_OSEK_OS/02_Trampoline_RTOS_Configurations/trampoline-master/goil/templates/config/cortex/armv7em/buildOptions.oil \
+ /D/Embedded Systems/13_OSEK_OS/02_Trampoline_RTOS_Configurations/trampoline-master/goil/templates/config/cortex/armv7em/stm32f407/config.oil \
+ /D/Embedded Systems/13_OSEK_OS/02_Trampoline_RTOS_Configurations/trampoline-master/goil/templates/config/cortex/armv7em/stm32f407/stm32f4discovery/config.oil \
+ /D/Embedded Systems/13_OSEK_OS/02_Trampoline_RTOS_Configurations/trampoline-master/goil/templates/config/config2.5.oil

@@ -1,0 +1,44 @@
+build/machines/cortex/armv7em/stm32f407/STM32F4xx_StdPeriph_Driver/stm32f4xx_gpio.c.o: \
+ ../../../../../../machines/cortex/armv7em/stm32f407/STM32F4xx_StdPeriph_Driver/stm32f4xx_gpio.c \
+ ../../../../../../machines/cortex/armv7em/stm32f407/STM32F4xx_StdPeriph_Driver/stm32f4xx_gpio.h \
+ ../../../../../../machines/cortex/armv7em/stm32f407/CMSIS-ST/Device/ST/STM32F4xx/Include/stm32f4xx.h \
+ ../../../../../../machines/cortex/CMSIS/Include/core_cm4.h \
+ c\:\program\ files\ (x86)\gnu\ arm\ embedded\ toolchain\10\ 2020-q4-major\lib\gcc\arm-none-eabi\10.2.1\include\stdint.h \
+ c\:\program\ files\ (x86)\gnu\ arm\ embedded\ toolchain\10\ 2020-q4-major\arm-none-eabi\include\stdint.h \
+ c\:\program\ files\ (x86)\gnu\ arm\ embedded\ toolchain\10\ 2020-q4-major\arm-none-eabi\include\machine\_default_types.h \
+ c\:\program\ files\ (x86)\gnu\ arm\ embedded\ toolchain\10\ 2020-q4-major\arm-none-eabi\include\sys\features.h \
+ c\:\program\ files\ (x86)\gnu\ arm\ embedded\ toolchain\10\ 2020-q4-major\arm-none-eabi\include\_newlib_version.h \
+ c\:\program\ files\ (x86)\gnu\ arm\ embedded\ toolchain\10\ 2020-q4-major\arm-none-eabi\include\sys\_intsup.h \
+ c\:\program\ files\ (x86)\gnu\ arm\ embedded\ toolchain\10\ 2020-q4-major\arm-none-eabi\include\sys\_stdint.h \
+ ../../../../../../machines/cortex/CMSIS/Include/core_cmInstr.h \
+ ../../../../../../machines/cortex/CMSIS/Include/core_cmFunc.h \
+ ../../../../../../machines/cortex/CMSIS/Include/core_cmSimd.h \
+ ../../../../../../machines/cortex/armv7em/stm32f407/CMSIS-ST/Device/ST/STM32F4xx/Include/system_stm32f4xx.h \
+ ../../../../../../machines/cortex/armv7em/stm32f407/stm32f4xx_conf.h \
+ ../../../../../../machines/cortex/armv7em/stm32f407/STM32F4xx_StdPeriph_Driver/stm32f4xx_exti.h \
+ ../../../../../../machines/cortex/armv7em/stm32f407/STM32F4xx_StdPeriph_Driver/stm32f4xx_gpio.h \
+ ../../../../../../machines/cortex/armv7em/stm32f407/STM32F4xx_StdPeriph_Driver/stm32f4xx_rcc.h \
+ ../../../../../../machines/cortex/armv7em/stm32f407/STM32F4xx_StdPeriph_Driver/stm32f4xx_syscfg.h \
+ ../../../../../../machines/cortex/armv7em/stm32f407/STM32F4xx_StdPeriph_Driver/misc.h \
+ ../../../../../../machines/cortex/armv7em/stm32f407/STM32F4xx_StdPeriph_Driver/stm32f4xx_rcc.h
+../../../../../../machines/cortex/armv7em/stm32f407/STM32F4xx_StdPeriph_Driver/stm32f4xx_gpio.h:
+../../../../../../machines/cortex/armv7em/stm32f407/CMSIS-ST/Device/ST/STM32F4xx/Include/stm32f4xx.h:
+../../../../../../machines/cortex/CMSIS/Include/core_cm4.h:
+c\:\program\ files\ (x86)\gnu\ arm\ embedded\ toolchain\10\ 2020-q4-major\lib\gcc\arm-none-eabi\10.2.1\include\stdint.h:
+c\:\program\ files\ (x86)\gnu\ arm\ embedded\ toolchain\10\ 2020-q4-major\arm-none-eabi\include\stdint.h:
+c\:\program\ files\ (x86)\gnu\ arm\ embedded\ toolchain\10\ 2020-q4-major\arm-none-eabi\include\machine\_default_types.h:
+c\:\program\ files\ (x86)\gnu\ arm\ embedded\ toolchain\10\ 2020-q4-major\arm-none-eabi\include\sys\features.h:
+c\:\program\ files\ (x86)\gnu\ arm\ embedded\ toolchain\10\ 2020-q4-major\arm-none-eabi\include\_newlib_version.h:
+c\:\program\ files\ (x86)\gnu\ arm\ embedded\ toolchain\10\ 2020-q4-major\arm-none-eabi\include\sys\_intsup.h:
+c\:\program\ files\ (x86)\gnu\ arm\ embedded\ toolchain\10\ 2020-q4-major\arm-none-eabi\include\sys\_stdint.h:
+../../../../../../machines/cortex/CMSIS/Include/core_cmInstr.h:
+../../../../../../machines/cortex/CMSIS/Include/core_cmFunc.h:
+../../../../../../machines/cortex/CMSIS/Include/core_cmSimd.h:
+../../../../../../machines/cortex/armv7em/stm32f407/CMSIS-ST/Device/ST/STM32F4xx/Include/system_stm32f4xx.h:
+../../../../../../machines/cortex/armv7em/stm32f407/stm32f4xx_conf.h:
+../../../../../../machines/cortex/armv7em/stm32f407/STM32F4xx_StdPeriph_Driver/stm32f4xx_exti.h:
+../../../../../../machines/cortex/armv7em/stm32f407/STM32F4xx_StdPeriph_Driver/stm32f4xx_gpio.h:
+../../../../../../machines/cortex/armv7em/stm32f407/STM32F4xx_StdPeriph_Driver/stm32f4xx_rcc.h:
+../../../../../../machines/cortex/armv7em/stm32f407/STM32F4xx_StdPeriph_Driver/stm32f4xx_syscfg.h:
+../../../../../../machines/cortex/armv7em/stm32f407/STM32F4xx_StdPeriph_Driver/misc.h:
+../../../../../../machines/cortex/armv7em/stm32f407/STM32F4xx_StdPeriph_Driver/stm32f4xx_rcc.h:
